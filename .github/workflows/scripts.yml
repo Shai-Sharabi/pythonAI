@@ -12,4 +12,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Run a Python script
-      run: python .github/workflows/a.py
+      run: python .github/workflows/plot.py
