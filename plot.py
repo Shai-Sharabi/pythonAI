@@ -3,7 +3,7 @@ import numpy as np
 
 # Create some example data
 x = np.array([1, 2, 3, 4, 5])
-y = np.array([2, 4, 6, 8, 10])
+y = np.array([2, 5, 7, 7, 10])
 
 # Plot the array of dots
 plt.scatter(x, y, color='red', label='Dots')
